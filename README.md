@@ -1,4 +1,4 @@
 #example repository
 Hello world !
 
-this is a second change
+this is not a second change
